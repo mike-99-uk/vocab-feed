@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Anki Vocab</title>
+        <link>Link to your website or podcast page</link>
+        <description>Description of your podcast</description>
+        <item>
+            <title>Episode Title</title>
+            <description>Description of the episode</description>
+            <enclosure url="https://github.com/mike-99-uk/vocab-feed/blob/gh-pages/output.mp3" length="28850721" type="audio/mpeg"/>
+        </item>
+    </channel>
+</rss>

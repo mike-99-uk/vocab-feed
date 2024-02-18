@@ -7,7 +7,7 @@
         <item>
             <title>Episode Title</title>
             <description>Description of the episode</description>
-            <enclosure url="https://github.com/mike-99-uk/vocab-feed/blob/gh-pages/output.mp3" length="28850721" type="audio/mpeg"/>
+            <enclosure url="https://mike-99-uk.github.io/vocab-feed/anki-revision-17Feb.mp3" length="28850721" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>

@@ -2,12 +2,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>Anki Vocab</title>
-        <link>Link to your website or podcast page</link>
+        <link>TODO: Link to your website or podcast page</link>
         <description>Description of your podcast</description>
         <item>
-            <title>Episode Title</title>
-            <description>Description of the episode</description>
-            <enclosure url="https://mike-99-uk.github.io/vocab-feed/anki-revision-17Feb.mp3" length="28850721" type="audio/mpeg"/>
+            <title>Anki revision 2024-02-19</title>
+            <description>Revision generated on 2024-02-19 at 8:28</description>
+            <enclosure url="https://mike-99-uk.github.io/vocab-feed/output.mp3" length="14890884" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>

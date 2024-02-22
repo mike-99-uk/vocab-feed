@@ -6,8 +6,8 @@
         <description>Description of your podcast</description>
         <item>
             <title>Anki revision 2024-02-22</title>
-            <description>Revision generated on 2024-02-22 at 7:56</description>
-            <enclosure url="https://mike-99-uk.github.io/vocab-feed/output.mp3" length="16388850" type="audio/mpeg"/>
+            <description>Revision generated on 2024-02-22 at 13:52</description>
+            <enclosure url="https://mike-99-uk.github.io/vocab-feed/output-{date_time_formatted}.mp3" length="16596576" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>
